@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ChronoFlux</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" type="image/png" href="assets/tab.png">
+</head>
+<body>
+    <div class="theme-toggle" onclick="toggleTheme()"></div>
+    
+    <div class="clock-container">
+        <div class="time-zone" id="timezone">Jakarta</div>
+        <div class="date" id="date"></div>
+        <div class="clock" id="clock">00:00:00</div>
+        
+        <div class="seconds-bar">
+            <div class="seconds-fill" id="secondsFill"></div>
+        </div>
+        
+        <div class="controls">
+            <button class="control-btn active" onclick="showClock()">Clock</button>
+            <button class="control-btn" onclick="toggleStopwatch()">Stopwatch</button>
+            <button class="control-btn" onclick="toggleAlarm()">Alarm</button>
+            <button class="control-btn" onclick="toggleFullscreen()">Fullscreen</button>
+        </div>
+        
+        <div class="stopwatch" id="stopwatch">
+            <div class="stopwatch-time" id="stopwatchTime">00:00:00</div>
+            <div class="controls">
+                <button class="control-btn" onclick="startStopwatch()">Start</button>
+                <button class="control-btn" onclick="pauseStopwatch()">Pause</button>
+                <button class="control-btn" onclick="resetStopwatch()">Reset</button>
+            </div>
+        </div>
+        
+        <div class="alarm-section" id="alarmSection">
+            <h3 style="color: rgba(255,255,255,0.9); margin-bottom: 15px;">Set Alarm</h3>
+            <input type="time" class="alarm-input" id="alarmTime">
+            <div class="controls">
+                <button class="control-btn" onclick="setAlarm()">Set Alarm</button>
+                <button class="control-btn" onclick="clearAlarm()">Clear</button>
+            </div>
+            <div id="alarmStatus" style="color: #40e0d0; margin-top: 10px;"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
