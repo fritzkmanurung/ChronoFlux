@@ -34,9 +34,9 @@ This project features a dynamic and futuristic user interface with multiple mode
     <td align="center"><strong>Alarm Mode</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/1.jpg" alt="Clock Mode Preview"></td>
-    <td><img src="assets/2.jpg" alt="Stopwatch Mode Preview"></td>
-    <td><img src="assets/3.jpg" alt="Alarm Mode Preview"></td>
+    <td><img src="assets/1.png" alt="Clock Mode Preview"></td>
+    <td><img src="assets/2.png" alt="Stopwatch Mode Preview"></td>
+    <td><img src="assets/3.png" alt="Alarm Mode Preview"></td>
   </tr>
 </table>
 
