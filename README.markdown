@@ -23,9 +23,15 @@
 
 ---
 
-## ✨ Preview
+## ✨ Live Demo & Preview
 
 This project features a dynamic and futuristic user interface with multiple modes.
+
+<p align="center">
+  <a href="https://modernwebcalculator.netlify.app/">
+    <img src="https://img.shields.io/badge/Launch-Live_Demo-purple?style=for-the-badge&logo=rocket" alt="Live Demo">
+  </a>
+</p>
 
 <table>
   <tr>
