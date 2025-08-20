@@ -1,117 +1,117 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a971e0ef-f295-4534-9d72-54201118faf9/deploy-status)](https://app.netlify.com/projects/chronoflux/deploys)
 <div align="center">
-  <img src="assets/ChronoFlux.png" alt="Project Logo" width="120">
+  <img src="assets/ChronoFlux.png" alt="ChronoFlux Logo" width="180">
   <h1>ChronoFlux - Ultra Modern Digital Clock</h1>
-  <p>Sebuah jam digital modern dengan efek glassmorphism, animasi partikel, dan fungsionalitas lengkap yang dibangun murni dengan HTML, CSS, dan JavaScript.</p>
+  <p>A sleek, modern digital clock featuring a glassmorphism design, particle animations, and full functionality, built purely with HTML, CSS, and JavaScript.</p>
   
   <p>
     <img src="https://img.shields.io/badge/Version-1.0-blue" alt="Version">
-    <img src="https://img.shields.io/github/license/fritzkmanurung/[NAMA-REPOSITORI]" alt="License">
-    <img src="https://img.shields.io/github/repo-size/fritzkmanurung/[NAMA-REPOSITORI]" alt="Repo Size">
-    <img src="https://img.shields.io/github/last-commit/fritzkmanurung/[NAMA-REPOSITORI]" alt="Last Commit">
-    <a href="https://github.com/fritzkmanurung/[NAMA-REPOSITORI]/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
+    <img src="https://img.shields.io/github/license/fritzkmanurung/ChronoFlux" alt="License">
+    <img src="https://img.shields.io/github/repo-size/fritzkmanurung/ChronoFlux" alt="Repo Size">
+    <img src="https://img.shields.io/github/last-commit/fritzkmanurung/ChronoFlux" alt="Last Commit">
+    <a href="https://github.com/fritzkmanurung/ChronoFlux/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome"></a>
   </p>
 </div>
 
 <p align="center">
-  <a href="#-pratinjau"><strong>Pratinjau</strong></a> ·
-  <a href="#-cerita-di-balik-nama-chronoflux"><strong>Nama Proyek</strong></a> ·
-  <a href="#-fitur-utama"><strong>Fitur</strong></a> ·
-  <a href="#-teknologi-yang-digunakan"><strong>Teknologi</strong></a> ·
-  <a href="#-memulai"><strong>Memulai</strong></a>
+  <a href="#-preview"><strong>Preview</strong></a> ·
+  <a href="#-the-story-behind-the-name-chronoflux"><strong>The Name</strong></a> ·
+  <a href="#-key-features"><strong>Features</strong></a> ·
+  <a href="#-tech-stack"><strong>Tech Stack</strong></a> ·
+  <a href="#-getting-started"><strong>Getting Started</strong></a>
 </p>
 
 ---
 
-## ✨ Pratinjau
+## ✨ Preview
 
-Proyek ini menampilkan antarmuka pengguna yang dinamis dan futuristik dengan berbagai mode.
+This project features a dynamic and futuristic user interface with multiple modes.
 
 <table>
   <tr>
-    <td align="center"><strong>Mode Jam</strong></td>
-    <td align="center"><strong>Mode Stopwatch</strong></td>
-    <td align="center"><strong>Mode Alarm</strong></td>
+    <td align="center"><strong>Clock Mode</strong></td>
+    <td align="center"><strong>Stopwatch Mode</strong></td>
+    <td align="center"><strong>Alarm Mode</strong></td>
   </tr>
   <tr>
-    <td><img src="assets/1.jpg" alt="Pratinjau Mode Jam"></td>
-    <td><img src="assets/2.jpg" alt="Pratinjau Mode Stopwatch"></td>
-    <td><img src="assets/3.jpg" alt="Pratinjau Mode Alarm"></td>
+    <td><img src="assets/1.jpg" alt="Clock Mode Preview"></td>
+    <td><img src="assets/2.jpg" alt="Stopwatch Mode Preview"></td>
+    <td><img src="assets/3.jpg" alt="Alarm Mode Preview"></td>
   </tr>
 </table>
 
-## 💡 Cerita di Balik Nama: ChronoFlux
+## 💡 The Story Behind the Name: ChronoFlux
 
-Nama **ChronoFlux** dipilih secara cermat untuk mencerminkan fungsi sekaligus estetika dari proyek ini. Nama ini adalah gabungan dari dua kata:
+The name **ChronoFlux** was carefully chosen to reflect both the function and the aesthetic of this project. It's a combination of two words:
 
--   **Chrono**: Berasal dari kata Yunani *'khronos'*, yang berarti **waktu**. Ini adalah akar kata untuk istilah seperti *kronologi* dan *kronometer*.
--   **Flux**: Berasal dari kata Latin *'fluxus'*, yang berarti **mengalir** atau keadaan perubahan yang terus-menerus.
+-   **Chrono**: Derived from the Greek word *'khronos'*, meaning **time**.
+-   **Flux**: Derived from the Latin word *'fluxus'*, meaning **to flow** or a state of continuous change.
 
-Bersama-sama, **ChronoFlux** secara puitis dapat diartikan sebagai **"Aliran Waktu"**.
+Together, **ChronoFlux** poetically translates to **"The Flow of Time"**. This name perfectly captures the application's essence: its core purpose is to track the relentless passage of time, while its visual design—with flowing particles and shifting gradients—mirrors the constant and fluid nature of time itself.
 
-Nama ini dengan sempurna menangkap esensi dari aplikasi ini: tujuan utamanya adalah untuk melacak perjalanan waktu yang tak henti-hentinya, sementara desain visualnya—dengan animasi partikel yang mengalir, gradien yang berubah, dan efek bercahaya—mencerminkan sifat waktu yang konstan dan cair.
+## 🌟 Key Features
 
-## 🌟 Fitur Utama
+-   **Complete Time & Date Display**: Shows real-time hours, minutes, seconds, along with the day, date, month, and year.
+-   **High-Precision Stopwatch**: Full stopwatch functionality with Start, Pause, and Reset controls.
+-   **Functional Alarm**: Easily set and clear alarms with an intuitive time input field.
+-   **Immersive Fullscreen Mode**: Switch to fullscreen for a distraction-free experience.
+-   **Keyboard Shortcuts**: Access key features like the Stopwatch (`S`), Alarm (`A`), and Fullscreen (`F11`) with ease.
+-   **Glassmorphism & Fluid Animations**: A stunning modern UI with a transparent blur effect, dynamic shadows, and smooth animations.
+-   **Dynamic Particle Background**: Floating particles create a lively and futuristic background.
+-   **Glowing Text & Borders**: Eye-catching glow effects and shifting color gradients on text and UI elements.
+-   **Responsive Design**: Looks and works great on all devices, from large desktops to small mobile screens.
 
--   **Tampilan Jam & Tanggal Lengkap**: Menampilkan jam, menit, detik, serta hari, tanggal, bulan, dan tahun secara *real-time*.
--   **Stopwatch Presisi Tinggi**: Fungsionalitas stopwatch dengan kontrol Start, Pause, dan Reset.
--   **Alarm Fungsional**: Atur dan hapus alarm dengan mudah menggunakan input waktu yang intuitif.
--   **Mode Layar Penuh**: Masuk ke mode layar penuh untuk pengalaman yang imersif.
--   **Pintasan Keyboard**: Akses cepat ke fitur-fitur utama seperti Stopwatch (`S`), Alarm (`A`), dan Layar Penuh (`F11`).
--   **Desain Glassmorphism & Animasi Cair**: Antarmuka modern dengan efek blur transparan dan animasi yang mulus.
--   **Latar Belakang Partikel Dinamis**: Partikel yang melayang memberikan kesan hidup dan futuristik.
--   **Teks dan Border Bercahaya**: Efek `glow` dan gradasi warna yang berubah-ubah pada teks dan elemen UI.
--   **Desain Responsif**: Tampilan optimal di berbagai ukuran layar, dari desktop hingga mobile.
+## 💻 Tech Stack
 
-## 💻 Teknologi yang Digunakan
-
-Proyek ini dibangun murni dari dasar menggunakan teknologi web inti, tanpa *framework* atau *library* eksternal.
+This project was built from scratch using core web technologies, making it lightweight and dependency-free.
 
 | HTML5 | CSS3 | JavaScript (Vanilla) |
 | :---: | :--: | :----------: |
 | <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> | <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> | <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"> |
-| Struktur Konten | Styling & Animasi | Logika & Interaktivitas |
+| Content Structure | Styling & Animations | Logic & Interactivity |
 
-## 🚀 Memulai
+## 🚀 Getting Started
 
-Tidak diperlukan proses instalasi yang rumit. Cukup ikuti langkah-langkah ini:
+No complex setup is required. Just follow these simple steps:
 
-1.  **Clone atau Unduh Repositori**
+1.  **Clone the Repository**
     ```bash
-    # Ganti URL dengan URL repositori Anda
-    git clone [https://github.com/](https://github.com/)fritzkmanurung/[NAMA-REPOSITORI].git
+    git clone [https://github.com/fritzkmanurung/ChronoFlux.git](https://github.com/fritzkmanurung/ChronoFlux.git)
     ```
-    Atau unduh file HTML-nya secara langsung.
+2.  **Navigate to the Directory**
+    ```bash
+    cd ChronoFlux
+    ```
+3.  **Open in Your Browser**
+    Simply open the `.html` file in any modern web browser.
 
-2.  **Buka di Browser**
-    Cukup buka file `.html` yang telah Anda unduh di browser web modern (Chrome, Firefox, Safari, Edge).
+## 🛠️ Usage
 
-## 🛠️ Cara Penggunaan
-
--   **Tombol Kontrol**: Gunakan tombol di bawah jam untuk beralih antara tampilan **Jam**, **Stopwatch**, dan **Alarm**.
--   **Mode Layar Penuh**: Klik tombol **Fullscreen** atau tekan `F11` untuk pengalaman imersif.
--   **Pintasan Keyboard**:
-    | Tombol | Fungsi |
+-   **Control Buttons**: Use the main buttons to switch between **Clock**, **Stopwatch**, and **Alarm** views.
+-   **Fullscreen Mode**: Click the **Fullscreen** button or press `F11` for an immersive experience.
+-   **Keyboard Shortcuts**:
+    | Key | Function |
     | :--- | :--- |
-    | `S` | Menampilkan/menyembunyikan Stopwatch |
-    | `A` | Menampilkan/menyembunyikan menu Alarm |
-    | `F11` | Masuk/keluar dari mode Layar Penuh |
+    | `S` | Toggle Stopwatch View |
+    | `A` | Toggle Alarm View |
+    | `F11` | Toggle Fullscreen Mode |
 
-## 🤝 Berkontribusi
+## 🤝 Contributing
 
-Kontribusi Anda sangat kami hargai! Jika Anda memiliki ide untuk perbaikan atau fitur baru, silakan:
+Contributions are what make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-1.  Fork Proyek ini.
-2.  Buat Branch Fitur Anda (`git checkout -b feature/FiturBaru`).
-3.  Commit Perubahan Anda (`git commit -m 'Menambahkan FiturBaru'`).
-4.  Push ke Branch (`git push origin feature/FiturBaru`).
-5.  Buka sebuah Pull Request.
+1.  Fork the Project.
+2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`).
+3.  Commit your Changes (`git commit -m 'Add some AmazingFeature'`).
+4.  Push to the Branch (`git push origin feature/AmazingFeature`).
+5.  Open a Pull Request.
 
-## 📜 Lisensi
+## 📜 License
 
-Proyek ini dilisensikan di bawah Lisensi MIT.
+Distributed under the MIT License.
 
 ---
 
 <p align="center">
-  ⭐ Jangan lupa berikan bintang jika Anda menyukai proyek ini! ⭐
+  ⭐ Don't forget to give this project a star if you find it useful! ⭐
 </p>
